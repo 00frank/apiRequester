@@ -1,0 +1,31 @@
+{
+  "name": "apirequester",
+  "version": "1.0.0",
+  "description": "Easily http requests via cli",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "apis",
+    "api",
+    "cli",
+    "request",
+    "http",
+    "make",
+    "easy",
+    "get",
+    "post"
+  ],
+  "author": "00frank",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "dotenv": "^8.2.0",
+    "enquirer": "^2.3.6",
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "ora": "^5.2.0"
+  }
+}
