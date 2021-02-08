@@ -19,9 +19,12 @@
 <br>
 
 <p align="center">
+    <sub>Podes ver un video en funcionamiento del cli en el siguiente <a href="https://www.youtube.com/watch?v=A3hHuWa5P9Y">video de YouTube</a></sub>
   <sub>(Ejemplo de peticiones al modelo <a href="#slider">Slider</a>)</a></sub>
-  <img src="https://raw.githubusercontent.com/enquirer/enquirer/master/media/survey-prompt.gif" alt="Enquirer Survey Prompt" width="750"><br>
+  <!-- <img src="https://raw.githubusercontent.com/enquirer/enquirer/master/media/survey-prompt.gif" alt="Enquirer Survey Prompt" width="750"><br> -->
 </p>
+
+
 
 <br>
 <br>
